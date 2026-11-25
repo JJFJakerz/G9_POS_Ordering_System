@@ -65,6 +65,8 @@ if continue_ordering.lower() =="no":
 Receipt = print("===== RECEIPT MINI STORE =====")
 
 print("Product   Qty    Price   Subtotal")
+
+
 print(ProductName1, Quantity1, price1, Quantity1 * price1 )
 print(ProductName2, Quantity2, )
 
